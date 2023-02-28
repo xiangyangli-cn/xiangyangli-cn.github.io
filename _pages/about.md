@@ -38,8 +38,9 @@ redirect_from:
 
 
 ## 📙 Conference
+- [KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation](https://cvpr2023.thecvf.com/), **Xiangyang Li**, Zihan Wang, jiahao Yang, Yaowei Wang, Shuqiang Jiang. In  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. 
 
-- [Expressional Region Retrieval](https://dl.acm.org/doi/abs/10.1145/3394171.3413567), Xiaoqian Guo. **Xiangyang Li**, Shuqiang Jiang. In  ACM International Conference on Multimedia (MM), 2020. 
+- [Expressional Region Retrieval](https://dl.acm.org/doi/abs/10.1145/3394171.3413567), Xiaoqian Guo, **Xiangyang Li**, Shuqiang Jiang. In  ACM International Conference on Multimedia (MM), 2020. 
 
 - [Learning Object Context for Dense Captioning](https://ojs.aaai.org/index.php/AAAI/article/view/4886), **Xiangyang Li**, Shuqiang Jiang, Jungong Han. In AAAI Conference on Artificial Intelligence (AAAI), 2019.
 
