@@ -16,13 +16,13 @@ redirect_from:
 
 
 # 🔥 News
-- *2023.02.28*: &nbsp;🎉🎉 Our paper <i><strong>KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CVPR 2023</font></strong>!&nbsp
+- *2023.02.28*: &nbsp;🎉🎉 Our paper <i><strong>KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CVPR 2023</font></strong>!
 
 # 📝 Publications 
 
 ## 📚 Journal
 
-- [Focus and Align: Learning Tube Tokens for Video-Language Pre-training]([https://dl.acm.org/doi/abs/10.1145/3319500](https://ieeexplore.ieee.org/abstract/document/9996559), Yongqing Zhu, **Xiangyang Li**, Mao Zheng, Jiahao Yang, Zihan Wang, Xiaoqian Guo, Zifeng Chai, Yuchen Yuan, Shuqiang Jiang Shuqiang Jiang. IEEE Transactions on Multimedia (TMM), 2022.
+- [Focus and Align: Learning Tube Tokens for Video-Language Pre-training](https://ieeexplore.ieee.org/abstract/document/9996559), Yongqing Zhu, **Xiangyang Li**, Mao Zheng, Jiahao Yang, Zihan Wang, Xiaoqian Guo, Zifeng Chai, Yuchen Yuan, Shuqiang Jiang Shuqiang Jiang. IEEE Transactions on Multimedia (TMM), 2022.
 
 - [Dataset Bias in Few-shot Image Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9720733), Shuqiang Jiang, Yaohui Zhu, Chenlong Liu, Xinhang Song, **Xiangyang Li**, Weiqing Min. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. [[**Project**]](http://123.57.42.89/dataset-bias/dataset-bias.html) 
  &nbsp;<img src='images/databais.png' alt="sym" width="98%">
