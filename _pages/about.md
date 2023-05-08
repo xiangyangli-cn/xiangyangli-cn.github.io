@@ -16,6 +16,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2023.04.28*: &nbsp;🎉🎉 Our paper <i><strong>TransWeaver: Weave Image Pairs for Class Agnostic Common Object Detection</strong></i> has been accepted by <strong><font color="Blue">IEEE Transactions on Image Processing (TIP)</font></strong>!
 - *2023.02.28*: &nbsp;🎉🎉 Our paper <i><strong>KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CVPR 2023</font></strong>!
 
 # 📝 Publications 
