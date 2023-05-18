@@ -22,7 +22,7 @@ redirect_from:
 # 📝 Publications 
 
 ## 📚 Journal
-- [TransWeaver: Weave Image Pairs for Class Agnostic Common Object Detection](https://ieeexplore.ieee.org), Xiaoqian Guo, **Xiangyang Li**, Yaowei Wang, Shuqiang Jiang. IEEE Transactions on Image Processing (TIP),  Early Access, 2023.
+- [TransWeaver: Weave Image Pairs for Class Agnostic Common Object Detection](https://ieeexplore.ieee.org/document/10128957), Xiaoqian Guo, **Xiangyang Li**, Yaowei Wang, Shuqiang Jiang. IEEE Transactions on Image Processing (TIP),  Early Access, 2023.
 
 - [Focus and Align: Learning Tube Tokens for Video-Language Pre-training](https://ieeexplore.ieee.org/abstract/document/9996559), Yongqing Zhu, **Xiangyang Li (Equal)**, Mao Zheng, Jiahao Yang, Zihan Wang, Xiaoqian Guo, Zifeng Chai, Yuchen Yuan, Shuqiang Jiang. IEEE Transactions on Multimedia (TMM),  Early Access, 2022.
 
