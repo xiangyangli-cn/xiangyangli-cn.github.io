@@ -16,12 +16,15 @@ redirect_from:
 
 
 # 🔥 News
+- *2023.05.23*: &nbsp;🎉🎉 Our paper <i><strong>MemBridge: Video-Language Pre-training with Memory-Augmented Inter-Modality Bridge</strong></i> has been accepted by <strong><font color="Blue">IEEE Transactions on Image Processing (TIP)</font></strong>!
 - *2023.04.28*: &nbsp;🎉🎉 Our paper <i><strong>TransWeaver: Weave Image Pairs for Class Agnostic Common Object Detection</strong></i> has been accepted by <strong><font color="Blue">IEEE Transactions on Image Processing (TIP)</font></strong>!
 - *2023.02.28*: &nbsp;🎉🎉 Our paper <i><strong>KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CVPR 2023</font></strong>!
 
 # 📝 Publications 
 
 ## 📚 Journal
+- [MemBridge: Video-Language Pre-training with Memory-Augmented Inter-Modality Bridge](https://ieeexplore.ieee.org),Jiahao Yang, **Xiangyang Li**, Mao Zheng, Zihan Wang, Yongqing Zhu, Xiaoqian Guo, Yuchen Yuan, Zifeng Chai, Shuqiang Jiang. IEEE Transactions on Image Processing (TIP),  Early Access, 2023.
+
 - [TransWeaver: Weave Image Pairs for Class Agnostic Common Object Detection](https://ieeexplore.ieee.org/document/10128957), Xiaoqian Guo, **Xiangyang Li**, Yaowei Wang, Shuqiang Jiang. IEEE Transactions on Image Processing (TIP),  Early Access, 2023.
 
 - [Focus and Align: Learning Tube Tokens for Video-Language Pre-training](https://ieeexplore.ieee.org/abstract/document/9996559), Yongqing Zhu, **Xiangyang Li (Equal)**, Mao Zheng, Jiahao Yang, Zihan Wang, Xiaoqian Guo, Zifeng Chai, Yuchen Yuan, Shuqiang Jiang. IEEE Transactions on Multimedia (TMM),  Early Access, 2022.
