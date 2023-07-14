@@ -39,6 +39,8 @@ redirect_from:
 
 
 ## 📙 Conference
+- [GridMM: Grid Memory Map for Vision-and-Language Navigation](https://iccv2023.thecvf.com), Zihan Wang, **Xiangyang Li**, Jiahao Yang, Yeqi Liu, Shuqiang Jiang. In Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2023.
+  
 - [KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation](https://arxiv.org/abs/2303.15796), **Xiangyang Li**, Zihan Wang, Jiahao Yang, Yaowei Wang, Shuqiang Jiang. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. 
 
 - [Expressional Region Retrieval](https://dl.acm.org/doi/abs/10.1145/3394171.3413567), Xiaoqian Guo, **Xiangyang Li**, Shuqiang Jiang. In  ACM International Conference on Multimedia (MM), 2020. 
