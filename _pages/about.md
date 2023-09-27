@@ -21,7 +21,7 @@ redirect_from:
 # 📝 Publications 
 
 ## 📚 Journal
-- [MemBridge: Video-Language Pre-training with Memory-Augmented Inter-Modality Bridge](https://ieeexplore.ieee.org/document/10181136),Jiahao Yang, **Xiangyang Li**, Mao Zheng, Zihan Wang, Yongqing Zhu, Xiaoqian Guo, Yuchen Yuan, Zifeng Chai, Shuqiang Jiang. IEEE Transactions on Image Processing (TIP),  Early Access, 2023.
+- [MemBridge: Video-Language Pre-training with Memory-Augmented Inter-Modality Bridge](https://ieeexplore.ieee.org/document/10181136),Jiahao Yang, **Xiangyang Li**, Mao Zheng, Zihan Wang, Yongqing Zhu, Xiaoqian Guo, Yuchen Yuan, Zifeng Chai, Shuqiang Jiang. IEEE Transactions on Image Processing (TIP), 2023.
 
 - [TransWeaver: Weave Image Pairs for Class Agnostic Common Object Detection](https://ieeexplore.ieee.org/document/10128957), Xiaoqian Guo, **Xiangyang Li**, Yaowei Wang, Shuqiang Jiang. IEEE Transactions on Image Processing (TIP), 2023.
 
