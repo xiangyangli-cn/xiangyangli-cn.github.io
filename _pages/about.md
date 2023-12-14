@@ -21,13 +21,13 @@ redirect_from:
 # 📝 Publications 
 
 ## 📚 Journal
-- [MemBridge: Video-Language Pre-training with Memory-Augmented Inter-Modality Bridge](https://ieeexplore.ieee.org/document/10181136),Jiahao Yang, **Xiangyang Li**, Mao Zheng, Zihan Wang, Yongqing Zhu, Xiaoqian Guo, Yuchen Yuan, Zifeng Chai, Shuqiang Jiang. IEEE Transactions on Image Processing (TIP), 2023.
+- [MemBridge: Video-Language Pre-training with Memory-Augmented Inter-Modality Bridge](https://ieeexplore.ieee.org/document/10181136), Jiahao Yang, **Xiangyang Li**, Mao Zheng, Zihan Wang, Yongqing Zhu, Xiaoqian Guo, Yuchen Yuan, Zifeng Chai, Shuqiang Jiang. IEEE Transactions on Image Processing (TIP), 2023.
 
 - [TransWeaver: Weave Image Pairs for Class Agnostic Common Object Detection](https://ieeexplore.ieee.org/document/10128957), Xiaoqian Guo, **Xiangyang Li**, Yaowei Wang, Shuqiang Jiang. IEEE Transactions on Image Processing (TIP), 2023.
 
-- [Focus and Align: Learning Tube Tokens for Video-Language Pre-training](https://ieeexplore.ieee.org/abstract/document/9996559), Yongqing Zhu, **Xiangyang Li**, Mao Zheng, Jiahao Yang, Zihan Wang, Xiaoqian Guo, Zifeng Chai, Yuchen Yuan, Shuqiang Jiang. IEEE Transactions on Multimedia (TMM),  Early Access, 2022.
+- [Focus and Align: Learning Tube Tokens for Video-Language Pre-training](https://ieeexplore.ieee.org/abstract/document/9996559), Yongqing Zhu, **Xiangyang Li**, Mao Zheng, Jiahao Yang, Zihan Wang, Xiaoqian Guo, Zifeng Chai, Yuchen Yuan, Shuqiang Jiang. IEEE Transactions on Multimedia (TMM), 2023.
 
-- [Dataset Bias in Few-shot Image Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9720733), Shuqiang Jiang, Yaohui Zhu, Chenlong Liu, Xinhang Song, **Xiangyang Li**, Weiqing Min. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [[**Project**]](http://123.57.42.89/dataset-bias/dataset-bias.html) 
+- [Dataset Bias in Few-shot Image Recognition](https://ieeexplore.ieee.org/document/9720733), Shuqiang Jiang, Yaohui Zhu, Chenlong Liu, Xinhang Song, **Xiangyang Li**, Weiqing Min. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [[**Project**]](http://123.57.42.89/dataset-bias/dataset-bias.html) 
 
 - [Multifaceted Analysis of Fine-Tuning in a Deep Model for Visual Recognition](https://dl.acm.org/doi/abs/10.1145/3319500), **Xiangyang Li**, Luis Herranz, Shuqiang Jiang. ACM Transactions on Data Science (ACM TDS), 2020.
 
