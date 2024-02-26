@@ -15,8 +15,8 @@ redirect_from:
  My research interests include embodied AI, large-scale image classification, vision and language understanding, and Embodied AI. I have been serving/served as a reviewer of IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, IEEE TBD, and ACM TOMM. I also have been serving/served as a PC member of leading conferences in vision, multimedia, and AI, such as CVPR, ICCV, ECCV, ACM MM, IJCAI, and AAAI.
 
 
-# 🔥🔥 News
-- *2023.07.14*: &nbsp;🎉🎉 Our paper <i><strong>GridMM: Grid Memory Map for Vision-and-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">ICCV 2023</font></strong>!
+# 🔥🔥🔥 News
+- *2023.07.14*: &nbsp;🎉🎉🎉 Our paper <i><strong>GridMM: Grid Memory Map for Vision-and-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">ICCV 2023</font></strong>!
 
 # 📝 Publications 
 
