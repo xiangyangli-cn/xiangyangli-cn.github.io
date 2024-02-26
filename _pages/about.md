@@ -16,7 +16,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2023.07.14*: &nbsp;🎉🎉 Our paper <i><strong>GridMM: Grid Memory Map for Vision-and-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">ICCV 2023</font></strong>!
+- *2023.07.14*: &nbsp;🎉🎉🎉 Our paper <i><strong>GridMM: Grid Memory Map for Vision-and-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">ICCV 2023</font></strong>!
 
 # 📝 Publications 
 
