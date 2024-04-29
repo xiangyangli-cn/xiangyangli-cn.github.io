@@ -53,4 +53,4 @@ redirect_from:
 
 - [Scene Recognition with CNNs: Objects, Scales and Dataset Bias](http://openaccess.thecvf.com/content_cvpr_2016/html/Herranz_Scene_Recognition_With_CVPR_2016_paper.html), Luis Herranz, Shuqiang Jiang, **Xiangyang Li**. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 
-- [Heterogeneous Convolutional Neural Networks for Visual Recognition](https://link.springer.com/chapter/10.1007/978-3-319-48896-7_26), **Xiangyang Li**, Luis Herranz, Shuqiang Jiang. In Pacific Rim Conference on Multimedia (PCM) 2016. [[**Oral**]](https://link.springer.com/chapter/10.1007/978-3-319-48896-7_26)
+- [Heterogeneous Convolutional Neural Networks for Visual Recognition](https://link.springer.com/chapter/10.1007/978-3-319-48896-7_26), **Xiangyang Li**, Luis Herranz, Shuqiang Jiang. In Pacific Rim Conference on Multimedia (PCM) (<font color="#dd0000">Oral</font>), 2016.
